@@ -1,0 +1,77 @@
+h1 {
+    color: darkblue;
+}
+h2 {
+    color: indigo;
+}
+p {
+    color: maroon;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+#paragraph1 {
+    background-color:rgb(241, 250, 247);
+    color:black; 
+    padding: 25px; 
+    width: 75%;
+    height: 40%; 
+    margin: 1px;
+    display:flex; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+#paragraph3 {
+    width:80%;
+    padding: left 10px;
+    color: rgb(44, 196,223);
+}
+
+#paragraph2 {
+
+    width:80%;
+    padding: left 10px;
+    color: black;
+}
+
+#paragraph4 {
+    font-style: italic;
+    font-size: 12px;
+    width: 80%; 
+    height: 10%; 
+    padding: left 90px font-size= x-small; 
+    margin-left: 25px;
+    margin-top: 0.5px;
+    margin-bottom: 0.5px;      
+}
+
+#paragraph5 {
+    font-style: italic;
+    font-size: 12px;
+    width: 80%; 
+    row-gap: 10xp; 
+    padding: left 10px font-size= medium; 
+    margin-left: 25px;
+    margin-top: 0.5px;
+    margin-bottom: 0.5px;
+}
+
+#paragraph6 {
+    width: 80%; 
+    row-gap: 10xp; 
+    padding: left 10px; 
+    margin-right: 5px;
+   }
+
+div > p {
+color: black;
+}
+.my-button {
+    background-color: darkgrey;
+    color: cornsilk;
+    padding: 10px;
+    border: 1px solid blue;
+    margin: 10px 20 px;
+}
